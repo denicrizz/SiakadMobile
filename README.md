@@ -9,7 +9,7 @@ Aplikasi **SIAKAD UNP Kediri Mobile** adalah aplikasi berbasis Android yang memu
 
 ## 📥 Download APK
 Kamu bisa mengunduh APK aplikasi ini melalui link berikut:
-🔗 **[Download APK](https://github.com/denicrizz/SiakadMobile/blob/main/Siakad%20Mobile.apk)** Tekan tombol ⬇️ untuk mengunduh aplikasi 😁
+🔗 **[Download APK](https://raw.githubusercontent.com/denicrizz/SiakadMobile/refs/heads/main/Siakad%20Mobile.apk)** Tekan Link berikut untuk mengunduh aplikasi 😁
 
 ## 🚀 Cara Instalasi
 1. Unduh file APK dari link di atas.
@@ -32,3 +32,5 @@ Kamu bisa mengunduh APK aplikasi ini melalui link berikut:
 ## 📝 Lisensi
 Aplikasi ini dibuat untuk keperluan akademik dan pengembangan lebih lanjut. Silakan gunakan dan modifikasi sesuai kebutuhan!
 
+Feel free to contact me :
+denikristanto90@gmail.com
