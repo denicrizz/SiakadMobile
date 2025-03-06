@@ -18,7 +18,8 @@ Kamu bisa mengunduh APK aplikasi ini melalui link berikut 😁 :
 4. Buka aplikasi dan mulai gunakan!
 
 ## 📷 Screenshot
-(Tambahkan screenshot aplikasi di sini jika tersedia)
+![image](https://github.com/user-attachments/assets/fbf8bb5e-048b-4417-8e35-99950066ab5c)
+
 
 ## 📌 Teknologi yang Digunakan
 - **Kotlin** - Bahasa pemrograman utama.
