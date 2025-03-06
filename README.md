@@ -8,8 +8,8 @@ Aplikasi **SIAKAD UNP Kediri Mobile** adalah aplikasi berbasis Android yang memu
 - **Cetak Halaman**: Kemampuan mencetak halaman langsung dari aplikasi.
 
 ## 📥 Download APK
-Kamu bisa mengunduh APK aplikasi ini melalui link berikut:
-🔗 **[Download APK](https://raw.githubusercontent.com/denicrizz/SiakadMobile/refs/heads/main/Siakad%20Mobile.apk)** Tekan Link berikut untuk mengunduh aplikasi 😁
+Kamu bisa mengunduh APK aplikasi ini melalui link berikut 😁 :
+🔗 **[Download APK](https://raw.githubusercontent.com/denicrizz/SiakadMobile/refs/heads/main/Siakad%20Mobile.apk)**
 
 ## 🚀 Cara Instalasi
 1. Unduh file APK dari link di atas.
